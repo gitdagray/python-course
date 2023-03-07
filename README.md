@@ -46,6 +46,8 @@
 
 ### 📚 References
 - 🔗 [Python Official Site](https://www.python.org/)
+- 🔗 [Python String Methods](https://docs.python.org/3/library/stdtypes.html#textseq)
+- 🔗 [Python Math Module](https://docs.python.org/3/library/math.html?highlight=math#module-math)
 
 ---
 
