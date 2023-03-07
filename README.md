@@ -54,3 +54,4 @@
 - 🔗 [Chapter 1 - Introduction & Setup](https://github.com/gitdagray/python-course/tree/main/lesson01)
 - 🔗 [Chapter 2 - Python Basics](https://github.com/gitdagray/python-course/tree/main/lesson02)
 - 🔗 [Chapter 3 - Python Operators](https://github.com/gitdagray/python-course/tree/main/lesson03)
+- 🔗 [Chapter 4 - Basic Data Types](https://github.com/gitdagray/python-course/tree/main/lesson04)
