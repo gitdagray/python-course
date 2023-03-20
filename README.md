@@ -59,3 +59,4 @@
 - 🔗 [Chapter 3 - Python Operators](https://github.com/gitdagray/python-course/tree/main/lesson03)
 - 🔗 [Chapter 4 - Basic Data Types](https://github.com/gitdagray/python-course/tree/main/lesson04)
 - 🔗 [Chapter 5 - User Input & Control Flow](https://github.com/gitdagray/python-course/tree/main/lesson05)
+- 🔗 [Chapter 6 - Lists & Tuples](https://github.com/gitdagray/python-course/tree/main/lesson06)
