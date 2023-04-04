@@ -61,3 +61,4 @@
 - 🔗 [Chapter 5 - User Input & Control Flow](https://github.com/gitdagray/python-course/tree/main/lesson05)
 - 🔗 [Chapter 6 - Lists & Tuples](https://github.com/gitdagray/python-course/tree/main/lesson06)
 - 🔗 [Chapter 7 - Dictionaries & Sets](https://github.com/gitdagray/python-course/tree/main/lesson07)
+- 🔗 [Chapter 8 - While Loops & For Loops](https://github.com/gitdagray/python-course/tree/main/lesson08)
