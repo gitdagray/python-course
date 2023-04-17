@@ -63,3 +63,4 @@
 - 🔗 [Chapter 7 - Dictionaries & Sets](https://github.com/gitdagray/python-course/tree/main/lesson07)
 - 🔗 [Chapter 8 - While Loops & For Loops](https://github.com/gitdagray/python-course/tree/main/lesson08)
 - 🔗 [Chapter 9 - Functions](https://github.com/gitdagray/python-course/tree/main/lesson09)
+- 🔗 [Chapter 10 - Recursion](https://github.com/gitdagray/python-course/tree/main/lesson10)
