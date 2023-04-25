@@ -64,3 +64,4 @@
 - 🔗 [Chapter 8 - While Loops & For Loops](https://github.com/gitdagray/python-course/tree/main/lesson08)
 - 🔗 [Chapter 9 - Functions](https://github.com/gitdagray/python-course/tree/main/lesson09)
 - 🔗 [Chapter 10 - Recursion](https://github.com/gitdagray/python-course/tree/main/lesson10)
+- 🔗 [Chapter 11 - Scope](https://github.com/gitdagray/python-course/tree/main/lesson11)
