@@ -66,3 +66,4 @@
 - 🔗 [Chapter 10 - Recursion](https://github.com/gitdagray/python-course/tree/main/lesson10)
 - 🔗 [Chapter 11 - Scope](https://github.com/gitdagray/python-course/tree/main/lesson11)
 - 🔗 [Chapter 12 - Closures](https://github.com/gitdagray/python-course/tree/main/lesson12)
+- 🔗 [Chapter 13 - f-Strings](https://github.com/gitdagray/python-course/tree/main/lesson13)
