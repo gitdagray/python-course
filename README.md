@@ -46,9 +46,12 @@
 
 ### 📚 References
 - 🔗 [Python Official Site](https://www.python.org/)
-- 🔗 [Python String Methods](https://docs.python.org/3/library/stdtypes.html#textseq)
-- 🔗 [Python Math Module](https://docs.python.org/3/library/math.html?highlight=math#module-math)
-- 🔗 [Python Random Module](https://docs.python.org/3/library/random.html?highlight=random%20module#module-random)
+- 🔗 [Python Standard Library](https://docs.python.org/3/library/index.html)
+- 🔗 [Python Package Index](https://pypi.org/)
+- 🔗 [Python string methods](https://docs.python.org/3/library/stdtypes.html#textseq)
+- 🔗 [Python math module](https://docs.python.org/3/library/math.html)
+- 🔗 [Python random module](https://docs.python.org/3/library/random.html)
+- 🔗 [Python argparse module](https://docs.python.org/3/library/argparse.html)
 
 ---
 
@@ -68,3 +71,4 @@
 - 🔗 [Chapter 12 - Closures](https://github.com/gitdagray/python-course/tree/main/lesson12)
 - 🔗 [Chapter 13 - f-Strings](https://github.com/gitdagray/python-course/tree/main/lesson13)
 - 🔗 [Chapter 14 - Modules](https://github.com/gitdagray/python-course/tree/main/lesson14)
+- 🔗 [Chapter 15 - Command Line Arguments](https://github.com/gitdagray/python-course/tree/main/lesson15)
