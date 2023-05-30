@@ -72,3 +72,4 @@
 - 🔗 [Chapter 13 - f-Strings](https://github.com/gitdagray/python-course/tree/main/lesson13)
 - 🔗 [Chapter 14 - Modules](https://github.com/gitdagray/python-course/tree/main/lesson14)
 - 🔗 [Chapter 15 - Command Line Arguments](https://github.com/gitdagray/python-course/tree/main/lesson15)
+- 🔗 [Chapter 16 - Student Challenge](https://github.com/gitdagray/python-course/tree/main/lesson16)
