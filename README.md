@@ -75,3 +75,4 @@
 - 🔗 [Chapter 16 - Student Challenge](https://github.com/gitdagray/python-course/tree/main/lesson16)
 - 🔗 [Chapter 17 - Lambda & Higher Order Functions](https://github.com/gitdagray/python-course/tree/main/lesson17)
 - 🔗 [Chapter 18 - Classes, Objects, Inheritance & Polymorphism](https://github.com/gitdagray/python-course/tree/main/lesson18)
+- 🔗 [Chapter 19 - Errors & Exception Handling](https://github.com/gitdagray/python-course/tree/main/lesson19)
