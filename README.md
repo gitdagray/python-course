@@ -78,3 +78,4 @@
 - 🔗 [Chapter 19 - Errors & Exception Handling](https://github.com/gitdagray/python-course/tree/main/lesson19)
 - 🔗 [Chapter 20 - OOP Practice Project](https://github.com/gitdagray/python-course/tree/main/lesson20)
 - 🔗 [Chapter 21 - Virtual Environments & PIP](https://github.com/gitdagray/python-course/tree/main/lesson21)
+- 🔗 [Chapter 22 - Working With Files](https://github.com/gitdagray/python-course/tree/main/lesson22)
