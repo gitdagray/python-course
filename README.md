@@ -27,7 +27,7 @@
 
 ### Description
 
-📺 [YouTube Playlist](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6MQri81d012LwP5jvFZ_scc) for this repository.
+📺 [YouTube Playlist](https://bit.ly/dg-beginners-python) for this repository.
 
 🚀 This repository shares ALL of the resources referenced during the Python for Beginners tutorial series.
 
